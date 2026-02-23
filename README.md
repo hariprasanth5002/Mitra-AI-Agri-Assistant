@@ -92,11 +92,6 @@ Each component runs independently and communicates via REST APIs.
 ## Chat Interface
 ![Chat UI](screenshots/chat-ui.png)
 
-## Disease Detection
-![Disease](screenshots/disease.png)
-
-## Weather Advisory
-![Weather](screenshots/weather.png)
 
 ---
 
