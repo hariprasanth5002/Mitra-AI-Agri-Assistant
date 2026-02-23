@@ -196,7 +196,6 @@ Model weights excluded from version control
 
 Whisper runs locally
 
-
 📄 License
 
 MIT License
