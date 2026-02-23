@@ -1,0 +1,11 @@
+# ================================================================
+# Root requirements.txt — Market Price Service (agmarknet.py)
+# ================================================================
+# Each AI service has its OWN requirements.txt in its folder:
+#   Image/requirements.txt  — MobileNetV2 Disease Detection (TF)
+#   Voice/requirements.txt  — Whisper Speech-to-Text
+#   text/requirements.txt   — FLAN-T5 Text Q&A (Hugging Face)
+# ================================================================
+
+flask==3.1.2
+requests==2.32.5
